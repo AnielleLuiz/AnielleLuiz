@@ -1,5 +1,8 @@
 ### HELLO WORLD!!
-![hello-world](https://user-images.githubusercontent.com/43620509/175441618-40547a6b-d86e-4fec-89e5-087ea50db902.gif)
+<div align="center">
+  ![dev](https://user-images.githubusercontent.com/43620509/175441794-33439cf4-66d3-4aaa-8344-8b866f484daf.gif)
+</div>
+
 
 <div align="center">
   <a href="https://github.com/AnielleLuiz">
