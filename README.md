@@ -7,7 +7,7 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Carlos-Bash" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
   <img align="center" alt="Carlos-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Carlos-Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+  <img align="center" alt="Anielle-Docker" height="30" width="40" src="https://user-images.githubusercontent.com/43620509/175438920-de1e8ba4-ab1b-4357-99d8-877cda06ed94.svg">
   <img align="center" alt="Carlos-Kubernetes" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg">
   <img align="center" alt="Carlos-Terraform" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg">
   <img align="center" alt="Anielle-AWS" height="30" width="40" src="https://user-images.githubusercontent.com/43620509/175438718-b1510e07-2331-4358-93ac-39d2be6d051e.svg">
