@@ -1,4 +1,5 @@
 ### HELLO WORLD!!
+![hello-world](https://user-images.githubusercontent.com/43620509/175441312-e9cdcd58-3d5e-4a62-9327-7ca55d710001.gif)
 
 <div align="center">
   <a href="https://github.com/AnielleLuiz">
