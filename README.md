@@ -10,6 +10,8 @@
   <img align="center" alt="Carlos-Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
   <img align="center" alt="Carlos-Kubernetes" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg">
   <img align="center" alt="Carlos-Terraform" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg">
+  <img align="center" alt="Anielle-AWS" height="30" width="40" ![kisspng-amazon-com-amazon-web-services-cloud-computing-ama-amazon-web-services-5b278127216cd3 2992169815293156231369](https://user-images.githubusercontent.com/43620509/175436879-cc0a5596-8389-4a0f-b5f5-f7f5622545f0.jpg)>
+
 </div>
 
   ##
