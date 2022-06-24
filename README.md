@@ -11,7 +11,7 @@
   <img align="center" alt="Carlos-Kubernetes" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg">
   <img align="center" alt="Carlos-Terraform" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg">
   <img align="center" alt="Anielle-AWS" height="30" width="40" src="https://user-images.githubusercontent.com/43620509/175436879-cc0a5596-8389-4a0f-b5f5-f7f5622545f0.jpg">
-
+  <img align="center" alt="Anielle-GIT" height="30" width="40"  src="https://user-images.githubusercontent.com/43620509/175437295-0f5278ed-d5b9-4110-90a6-cf547930bb26.png">
 </div>
 
   ##
