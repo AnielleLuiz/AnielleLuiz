@@ -1,4 +1,4 @@
-## **print('Hello, World!')** ## :sun_behind_large_cloud:	
+## **print('Hello, World!')** <:sun_behind_large_cloud:>	
 
 <div align="center">
   <a href="https://github.com/AnielleLuiz">
