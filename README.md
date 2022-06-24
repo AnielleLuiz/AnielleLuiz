@@ -12,6 +12,7 @@
   <img align="center" alt="Anielle-Jenkins" height="30" width="40" src="https://user-images.githubusercontent.com/43620509/175439539-c0a13390-a8c6-4937-9c0e-c923a8b3f941.svg">
   <img align="center" alt="Anielle-AWS" height="30" width="40" src="https://user-images.githubusercontent.com/43620509/175438718-b1510e07-2331-4358-93ac-39d2be6d051e.svg">
   <img align="center" alt="Anielle-GIT" height="30" width="40"  src="https://user-images.githubusercontent.com/43620509/175439266-7fba1f4d-d357-4105-9966-6e93acdf8fb6.svg">
+  <img align="center" alt="Anielle-MySQL" height="30" width="40"  src="https://user-images.githubusercontent.com/43620509/175439791-941a35cf-a4bc-4f59-bf3d-82e94d0af91b.svg">
 </div>
 
   ##
