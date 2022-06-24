@@ -6,7 +6,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnielleLuiz&layout=compact&langs_count=7&theme=panda"/>
 </div>
 
-<div style="display: inline_block"><br>
+<div align="center">
+  <div style="display: inline_block"><br>
   <img align="center" alt="Anielle-Bash" height="30" width="40" src="https://user-images.githubusercontent.com/43620509/175439668-c9776560-bca3-4005-b5f0-1cfae303e65a.svg">
   <img align="center" alt="Anielle-Python" height="30" width="40" src="https://user-images.githubusercontent.com/43620509/175439192-96f5cd8b-a5a6-4d21-98a5-65848d84c203.svg">
   <img align="center" alt="Anielle-Docker" height="30" width="40" src="https://user-images.githubusercontent.com/43620509/175438920-de1e8ba4-ab1b-4357-99d8-877cda06ed94.svg">
@@ -15,6 +16,7 @@
   <img align="center" alt="Anielle-AWS" height="30" width="40" src="https://user-images.githubusercontent.com/43620509/175438718-b1510e07-2331-4358-93ac-39d2be6d051e.svg">
   <img align="center" alt="Anielle-GIT" height="30" width="40"  src="https://user-images.githubusercontent.com/43620509/175439266-7fba1f4d-d357-4105-9966-6e93acdf8fb6.svg">
   <img align="center" alt="Anielle-MySQL" height="30" width="40"  src="https://user-images.githubusercontent.com/43620509/175439791-941a35cf-a4bc-4f59-bf3d-82e94d0af91b.svg">
+  </div>
 </div>
 
   ##
