@@ -5,13 +5,13 @@
 </div>
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Carlos-Bash" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
-  <img align="center" alt="Carlos-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Anielle-Bash" height="30" width="40" src="https://user-images.githubusercontent.com/43620509/175439668-c9776560-bca3-4005-b5f0-1cfae303e65a.svg">
+  <img align="center" alt="Anielle-Python" height="30" width="40" src="https://user-images.githubusercontent.com/43620509/175439192-96f5cd8b-a5a6-4d21-98a5-65848d84c203.svg">
   <img align="center" alt="Anielle-Docker" height="30" width="40" src="https://user-images.githubusercontent.com/43620509/175438920-de1e8ba4-ab1b-4357-99d8-877cda06ed94.svg">
-  <img align="center" alt="Carlos-Kubernetes" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg">
-  <img align="center" alt="Carlos-Terraform" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg">
+  <img align="center" alt="Anielle-VSCODE" height="30" width="40" src="https://user-images.githubusercontent.com/43620509/175439411-f6dc330a-5c8f-49b3-8544-47e8479c5c4f.svg">
+  <img align="center" alt="Anielle-Jenkins" height="30" width="40" src="https://user-images.githubusercontent.com/43620509/175439539-c0a13390-a8c6-4937-9c0e-c923a8b3f941.svg">
   <img align="center" alt="Anielle-AWS" height="30" width="40" src="https://user-images.githubusercontent.com/43620509/175438718-b1510e07-2331-4358-93ac-39d2be6d051e.svg">
-  <img align="center" alt="Anielle-GIT" height="30" width="40"  src="https://user-images.githubusercontent.com/43620509/175437295-0f5278ed-d5b9-4110-90a6-cf547930bb26.png">
+  <img align="center" alt="Anielle-GIT" height="30" width="40"  src="https://user-images.githubusercontent.com/43620509/175439266-7fba1f4d-d357-4105-9966-6e93acdf8fb6.svg">
 </div>
 
   ##
