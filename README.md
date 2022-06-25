@@ -1,10 +1,10 @@
 ## **print('Hello, World!')** :sun_behind_large_cloud:
 
+<a href="https://github.com/AnielleLuiz">
+<br></br>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=AnielleLuiz&show_icons=true&layout=compact&theme=panda&custom_title=Minhas%20contribuicoes%20no%20GitHub&include_all_commits=true&hide=contribs&count_private=true"/>
+<img width="300rem" align="right" height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnielleLuiz&langs_count=6&custom_title=Linguagens%20mais%20usadas&layout=default&theme=panda"/> 
 
-<div align="center">
-  <a href="https://github.com/AnielleLuiz">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AnielleLuiz&show_icons=true&theme=panda&include_all_commits=true&count_private=true"/><img width="450rem" align="right" height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnielleLuiz&layout=compact&langs_count=7&theme=panda"/>
-</div>
 
 <div align="center">
   <div style="display: inline_block"><br>
