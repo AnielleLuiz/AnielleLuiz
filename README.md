@@ -7,6 +7,7 @@
 </div>
 
 <div align="center">
+  # I'm learning and focused:
   <div style="display: inline_block"><br>
   <img align="center" alt="Anielle-Bash" height="30" width="40" src="https://user-images.githubusercontent.com/43620509/175439668-c9776560-bca3-4005-b5f0-1cfae303e65a.svg">
   <img align="center" alt="Anielle-Python" height="30" width="40" src="https://user-images.githubusercontent.com/43620509/175439192-96f5cd8b-a5a6-4d21-98a5-65848d84c203.svg">
